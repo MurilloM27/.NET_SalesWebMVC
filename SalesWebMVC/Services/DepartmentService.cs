@@ -1,4 +1,5 @@
-﻿using SalesWebMVC.Data;
+﻿using Microsoft.EntityFrameworkCore;
+using SalesWebMVC.Data;
 using SalesWebMVC.Models;
 using System;
 using System.Collections.Generic;
